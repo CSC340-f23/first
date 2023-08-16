@@ -1,1 +1,2 @@
 new stuff in a file
+Adding a new line
